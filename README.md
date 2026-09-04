@@ -1,4 +1,4 @@
-# # 🌾 AgroTech - Agricultura Sustentável
+# 🌾 AgroTech - Agricultura Sustentável
 
 > Projeto desenvolvido durante o curso de Desenvolvimento Web Front-end da [Alura](https://www.alura.com.br/).
 
